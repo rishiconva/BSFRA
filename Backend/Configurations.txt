@@ -1,0 +1,8 @@
+transaction hash : 0x5fbe1396d16633381bb82d0829678a95b4c86cf102a42c8bb2aa3a15a42aca17
+contract address(UniswapV2Factory.sol) : 0xc77a7239ef6467e03e45f0aa7a4d0376c7e6441e
+INIT_CODE_HASH : 0x0b95e0bbe86c782f86042b800ac683cbb6def8f9a626dff20881abfb783a6f2c
+WETH address(Ropsten Network) : 0xc778417E063141139Fce010982780140Aa0cD5Ab
+
+
+transaction hash(Router02) : 0x352778a12d654a0ced529a7ff87c024e6f5d577dcf7c75c18e67e916dbfaa328 
+contract address : 0x70cb67ec8d6dde537789ae1422e281ff0f91b3f8
